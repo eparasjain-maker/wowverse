@@ -9,7 +9,9 @@ WOWVERSE is an award-winning, editorial-grade digital experience and full-stack 
 
 ## 🌟 Key Highlights & Creative Direction
 
-- **Cinematic & Editorial Aesthetic:** Inspired by Monument's immersive visual storytelling, dark charcoal canvas (`#09090B`), warm ivory typography (`#F5F3EC`), and signature WOWVERSE orange accents (`#FF4D00`).
+- **Editorial & Atelier Aesthetic:** Exact styling inspired by [says.theroyal.org.in](https://says.theroyal.org.in/) and [Monument](https://monument.tv/) — warm linen paper canvas (`#f1efeb`), deep carbon ink typography (`#0e0e0e`), signature powder blue panels (`#b8d4e8`), and dusky rose accents (`#b692a1`).
+- **Atelier Typography:** Custom-licensed fonts matching the flagship studio identity — `Voklea` for wordmarks, `Avinga` & `Cormorant Garamond` for display titles, `DM Sans` for body, and `JetBrains Mono` for badges.
+- **Lovable Co-Working Ready:** Fully compatible with [Lovable.dev](https://lovable.dev) via standard Vite + React + TypeScript + Tailwind CSS structure, `@/*` aliases, and `components.json`.
 - **Native 9:16 Video Storytelling:** Built-in vertical reel player interfaces with 4K-ready video loops, poster fallbacks, view counters, and sound controls.
 - **Two-Way Connected Booking System:**
   1. **Wedding Date Availability Calendar:** Live monthly matrix displaying official availability statuses (`AVAILABLE`, `LIMITED`, `PENDING`, `BOOKED`, `UNAVAILABLE`) with multi-function date support.
